@@ -1,0 +1,22 @@
+{
+  "started_utc": "2026-11-23T19:45:07.241819+00:00",
+  "python": "3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+  "sizes": [
+    100000,
+    1000000,
+    10000000
+  ],
+  "kinds": [
+    "random",
+    "sorted",
+    "reverse",
+    "nearly",
+    "duplicates"
+  ],
+  "repeats": 5,
+  "seed": 42,
+  "quadratic_limit": 4096,
+  "force_quadratic": false
+}
